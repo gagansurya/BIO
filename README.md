@@ -1,6 +1,6 @@
-Hi I’m Gagan M Shetty I’m currently pursuing my Btech-Presidency University at Banglore,Karnataka,INDIA.
+👋 Hi I’m Gagan M Shetty I’m currently pursuing my Btech-Presidency University at Banglore,Karnataka,INDIA.
 
-Having knowledge on C,HTML,SQL,Python🐍,Data Science,Machine Learning,Deep Learning, Natural Language Processing.
+Having knowledge on C,HTML,SQL,Python🐍,Data Science,Machine Learning,Deep Learning, Natural Language Processing, Bio Informatics 🧫.
 
 Currently Studying on Snowflake,AWS.
 
