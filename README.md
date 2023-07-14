@@ -6,4 +6,4 @@ Currently Studying on Snowflake,AWS.
 
 I’m currently doing masters program @simplilearn and certified with ml and fundamentals of Deep learning.
 
-Looking for better opportunities to learn and develop my skills in AI and have done some projects on ml and dl.
+Looking for better opportunities to learn and develop my skills in AI and have done some projects on ML and DL.
